@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Orden_lista.dir/src/files_ops1.c.o CMakeFiles/Orden_lista.dir/src/funciones_grx.c.o CMakeFiles/Orden_lista.dir/src/main.c.o -o bin/Orden_lista 
